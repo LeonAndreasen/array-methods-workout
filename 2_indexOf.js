@@ -10,3 +10,4 @@ console.log(things.indexOf('tree')) // 4
 console.log(things.indexOf('car')) // 0
 
 console.log(things.indexOf('spaceship')) // -1
+
